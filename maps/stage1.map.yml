@@ -1,0 +1,72 @@
+tileset: home
+layers:
+  -
+    -
+      from: [0,0]
+      to: [480,64]
+      tileRow: 1
+      tileIndex: 4
+    -
+      from: [0,96]
+      to: [192,320]
+      tileRow: 0
+      tileIndex: 0
+    -
+      from: [224,96]
+      to: [480,320]
+      tileRow: 0
+      tileIndex: 3
+    -
+      from: [192,0]
+      to: [224,96]
+      tileRow: 1
+      tileIndex: 3
+    -
+      from: [192, 192]
+      to: [224,256]
+      tileRow: 1
+      tileIndex: 4
+    -
+      from: [192,288]
+      to: [224,288]
+      tileRow: 1
+      tileIndex: 3
+    -
+      from: [0,192]
+      to: [128,192]
+      tileRow: 1
+      tileIndex: 4
+    -
+      from: [0,224]
+      to: [128,224]
+      tileRow: 1
+      tileIndex: 3
+    -
+      from: [0,192]
+      to: [32,288]
+      tileRow: 1
+      tileIndex: 4
+  -
+    -
+      from: [64,64]
+      to: [96,96]
+      tileRow: 1
+      tileIndex: 2
+      scale: [2,2]
+    -
+      from: [160,192]
+      to: [160,224]
+      tileRow: 2
+      tileIndex: 10
+      scale: [1,2]
+    -
+      from: [64,288]
+      to: [64,288]
+      tileRow: 7
+      tileIndex: 3
+    -
+      from: [64,224]
+      to: [64,256]
+      tileRow: 3
+      tileIndex: 4
+      scale: [1,2]
